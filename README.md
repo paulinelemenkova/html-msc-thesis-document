@@ -19,7 +19,7 @@ Open the \`.html\` file in any web browser to read the document.
 
 ## Author
 
-**Dr Polina Lemenkova**  
+**Polina Lemenkova**  
 ORCID: https://orcid.org/0000-0002-5759-1089
 
 ## License
